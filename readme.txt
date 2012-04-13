@@ -4,7 +4,7 @@ Donate link: http://example.com/
 Tags: slide, coverflow, imageflow, gallery, javascript, widget
 Requires at least: 2.8
 Tested up to: 3.3.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 Slideshow plugin with cover flow effect.
 

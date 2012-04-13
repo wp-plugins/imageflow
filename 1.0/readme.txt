@@ -29,7 +29,8 @@ So for now I hope this helps someone else.
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Go to ImageFlow options page and have fun.
-4. Go to widgets, then, drag and drop in to any of your side bars.
+4. Set the thumbs in your posts.
+5. Go to widgets, then, drag and drop in to any of your side bars.
 
 == Frequently Asked Questions ==
 

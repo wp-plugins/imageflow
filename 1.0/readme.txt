@@ -4,7 +4,7 @@ Donate link: http://example.com/
 Tags: slide, coverflow, imageflow, gallery, javascript, widget
 Requires at least: 2.8
 Tested up to: 3.3.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 Slideshow plugin with cover flow effect.
 
@@ -15,7 +15,7 @@ you be able to create the look you need.
 
 [Finn Rudolph](http://finnrudolph.de/ImageFlow "Finn Rudolph"), is the creator of JavaScipt code necessary for this effect to work and because there are 
 a few options that are difficult to explain is better if you take a look at your website and review 
-the [examples](http://finnrudolph.de/ImageFlow/Examples "examples">) he has.
+the [examples](http://finnrudolph.de/ImageFlow/Examples "examples") he has.
 
 You will notice that not all options that exist within the javascript plugin are included within the wordpress plugin, 
 that is for lack of time, but will be available in the future.
